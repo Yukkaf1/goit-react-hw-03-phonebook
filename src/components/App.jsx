@@ -19,8 +19,6 @@ export const App = () => {
         stats={user.stats}
       />
       <Statistics cards={data} />
-
-      <FriendList friends={friends} />
     </>
   );
 };
