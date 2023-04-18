@@ -10,6 +10,7 @@ export class App extends Component {
     contacts: [
       { id: nanoid(), name: 'Simpson', number: '49-12-512' },
       { id: nanoid(), name: 'Adams', number: '49-10-000' },
+      { id: nanoid(), name: 'Hoobs', number: '49-0gt0-000' },
     ],
     filter: '',
   };
